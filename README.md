@@ -139,9 +139,9 @@ pip install torch torchvision matplotlib
 ## ✍️ Author
 
 Arya Baisakhiya
-B.Tech – Saveetha Engineering College
+B.E – Saveetha Engineering College
 Project: Creating Realistic Images with GANs
-Supervisor: \[Your Guide Name Here]
+
 
 ---
 
