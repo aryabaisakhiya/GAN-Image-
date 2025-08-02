@@ -1,4 +1,4 @@
-# GAN-Image-
+# GAN-Image
 
 
 
